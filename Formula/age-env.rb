@@ -5,8 +5,8 @@ class AgeEnv < Formula
   desc "Manage your environment files using age"
   homepage "https://github.com/jld-adriano/age-env"
   url "https://github.com/jld-adriano/age-env/releases/latest/download/age-env.tar.gz"
-  sha256 "b63fa8218de509580fd2583d0503ac223e5f244f893cf409e335b5e8b4302a4f"
-  version "0.1.23"
+  sha256 "8f6edc489dd93ed5f9c53fc5ab1dc5418729241a9c7a39162e65ae0fbbb19707"
+  version "0.1.24"
 
   def install
     bin.install "age-env"
